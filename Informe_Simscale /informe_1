@@ -1,0 +1,49 @@
+# 📑 Informe de Pasos del Tutorial: Simulación Estructural en SimScale
+
+Este informe describe los pasos comunes en el flujo de trabajo para realizar una **simulación estructural estática** de un ensamble básico en la plataforma **SimScale**, utilizando como referencia el video tutorial de la serie educativa de Ingeniería Universitaria.
+
+---
+
+## 🔹 1. Importación o creación del modelo CAD
+- El modelo es diseñado previamente en **Onshape** (plataforma CAD en la nube).
+- Luego se **importa a SimScale**, manteniendo la geometría y las propiedades necesarias.
+- Este paso garantiza la interoperabilidad entre el diseño y el análisis.
+
+---
+
+## 🔹 2. Configuración del tipo de análisis
+- En **SimScale** se selecciona el tipo de análisis:  
+  **Simulación estructural estática**.
+- Se definen los parámetros iniciales para la resolución:
+  - Tipo de mallado.
+  - Método de cálculo.
+  - Opciones de solver.
+
+---
+
+## 🔹 3. Definición de condiciones de contorno, cargas y materiales
+- **Materiales**: se asignan propiedades mecánicas como módulo de elasticidad y coeficiente de Poisson.
+- **Condiciones de contorno**: se fijan restricciones de movimiento (apoyos o empotramientos).
+- **Cargas**: aplicación de fuerzas externas, presión o peso propio sobre superficies y aristas.
+
+---
+
+## 🔹 4. Ejecución de la simulación
+- Una vez definidos los parámetros, se ejecuta la simulación en la nube.
+- SimScale procesa el cálculo y genera los resultados en pocos minutos.
+- Ventaja: no requiere equipos de alto rendimiento, ya que todo corre en servidores de la plataforma.
+
+---
+
+## 🔹 5. Interpretación de resultados
+- Los resultados típicos incluyen:
+  - **Deformaciones** (desplazamientos en el ensamble).
+  - **Esfuerzos** (tensiones internas como Von Mises).
+- Se visualizan mediante gráficos de colores y escalas que permiten identificar zonas críticas.
+
+---
+
+## ✅ Conclusión
+El flujo de trabajo en **SimScale** para una simulación estructural básica es intuitivo y accesible.  
+Integra el diseño CAD desde Onshape con herramientas de análisis en la nube, lo que facilita el aprendizaje y la aplicación práctica de la ingeniería estructural.
+
