@@ -17,5 +17,5 @@ La simulación se ejecutó correctamente con los parámetros ajustados, incluyen
 
 Foto:
 <p align= "center">
-  <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Imágenes/Simulación%20-%20Sendy%20Rodriguez.png?raw=true" alt="800px" width="800px"/>
+  <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Im%C3%A1genes/Simulacio%CC%81n%20-%20Sendy%20Rodriguez.png?raw=true" alt="800px" width="800px"/>
 </p>
