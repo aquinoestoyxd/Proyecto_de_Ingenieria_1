@@ -8,7 +8,7 @@ El análisis se llevó a cabo utilizando el criterio de Von Mises Stress, con el
 Análisis estructural estático lineal.
 
 -Condiciones de contorno:
-Se aplicaron fuerzas externas en la zona frontal del componente.
+Se aplicó una fuerzas externa de 100N en la zona frontal del componente.
 El cuerpo principal fue restringido para evitar movimientos rígidos.
 
 -Mallado:
@@ -19,6 +19,8 @@ Materiales:
 Se utilizó el material PLA
 
 ### 📊 Resultados
+El diseño soporta las cargas aplicadas sin superar los límites elásticos esperados del material.
+Se identificaron zonas críticas donde se concentran esfuerzos, lo que puede servir como base para refinamiento de diseño (redondeo de aristas, incremento de sección, o cambio de material). Las zonas con mayor concentración de esfuerzos se encuentran en las regiones de contacto y transición geométrica.
 
 <p align= "center">
   <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Im%C3%A1genes/simscale_jhan.jpeg?raw=true" alt="800px" width="800px"/>
