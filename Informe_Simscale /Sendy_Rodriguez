@@ -1,0 +1,9 @@
+*Informe SimScale*
+Sendy Rodríguez 
+Descripción de los Cambios Realizados
+Materiales: Se actualizó el material a "PLA" para la simulación.
+Condiciones de Borde:
+Se estableció "Force 1" con un valor de Fy: 100 N.
+Se aplicó una "fixed value" para restringir el movimiento en las caras seleccionadas.
+Estado de la Simulación
+La simulación se ejecutó correctamente con los parámetros ajustados, incluyendo la malla generada y el análisis estático realizado.
