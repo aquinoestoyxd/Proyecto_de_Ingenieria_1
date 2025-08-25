@@ -7,3 +7,5 @@ Se estableció "Force 1" con un valor de Fy: 100 N.
 Se aplicó una "fixed value" para restringir el movimiento en las caras seleccionadas.
 Estado de la Simulación
 La simulación se ejecutó correctamente con los parámetros ajustados, incluyendo la malla generada y el análisis estático realizado.
+Foto:
+![Simulación - Sendy Rodriguez](Imágenes/Simulación - Sendy Rodriguez.png)
