@@ -49,5 +49,5 @@ El flujo de trabajo en **SimScale** permite realizar simulaciones estructurales 
 La integración con **Onshape** facilita pasar del diseño CAD al análisis estructural en pocos pasos, siendo ideal para entornos educativos y de aprendizaje en línea.  
 
 <p align= "center">
-  <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Im%C3%A1genes/informe1.paty.png" alt="300px" width="300px"/>
+  <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Im%C3%A1genes/informe1.paty.png" alt="300px" width="600px"/>
 </p>
