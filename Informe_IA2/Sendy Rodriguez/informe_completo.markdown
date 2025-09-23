@@ -158,8 +158,3 @@ El modelo de regresión lineal simple no es adecuado para predecir PM2.5 mensual
 **Contribuciones**: ¡Abre un issue o PR en el repositorio para sugerencias!  
 **Contacto**: [Tu correo o enlace a GitHub]  
 **Fecha**: 22 de septiembre de 2025
-
-<div align="center">
-  <p><em>Desarrollado con 💻 para análisis ambiental.</em></p>
-  <p>⭐ ¡Dale una estrella al repo si te es útil!</p>
-</div>
