@@ -22,9 +22,15 @@ El procedimiento realizado ha sido el siguiente:
 
 4.- A fin de poder realizar una comparativa entre los valores predichos y valores reales, se crea un archivo csv que almacene los datos predichos por el sistema para los primeros 8 meses del año 2025, y se realiza una comparativa con los datos reales, los cuales se observan en el siguiente gráfico:
 
-
+<p align="center">
+  <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Im%C3%A1genes/NO2%20gr%C3%A1fico.PNG"/>
+</p>
 
 5.- Para tener una mayor facilidad de obtener los valores predichos para cada mes del año 2025, se crea la función consultar_mes, la cual permite al usuario ingresar un número del 1 al 12 (correspondiente a cada mes del año) y a partir del valor ingresado se presentan el valor predicho y el valor real. En caso de no existir un dato real para algún mes (del mes 9 en adelante), se imprimirá el valor predicha con la mención de que no hay dato real para su comparación.
+
+<p align="center">
+  <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Im%C3%A1genes/Consultar_mes.PNG"/>
+</p>
 
 6.- Finalmente, se realizan cálculos de MAE, MSE, RMSE y R2 para evaluar el desempeño de nuestro modelo.
 
@@ -44,6 +50,7 @@ En conjunto a ello, en los datos ilustrados en el gráfico de comparación, se o
 ---
 
 ## Referencias
-
+Datasets obtenidos de:
+U.S. Environmental Protection Agency, “Download Daily Data” Outdoor Air Quality Data, EPA. [Online]. https://www.epa.gov/outdoor-air-quality-data/download-daily-data
 
 
