@@ -34,6 +34,10 @@ El procedimiento realizado ha sido el siguiente:
 
 6.- Finalmente, se realizan cálculos de MAE, MSE, RMSE y R2 para evaluar el desempeño de nuestro modelo.
 
+<p align="center">
+  <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Im%C3%A1genes/M%C3%A9tricas.PNG"/>
+</p>
+
 ---
 
 ## Resultados
