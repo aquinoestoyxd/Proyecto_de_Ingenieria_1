@@ -160,13 +160,7 @@ El análisis completo está en el notebook: [Sendy.ipynb](./Sendy.ipynb). Para r
 
 El modelo de regresión lineal simple no es adecuado para predecir PM2.5 mensual en Adrian, Michigan, debido a su incapacidad para modelar relaciones no lineales y patrones temporales. El R² negativo y los errores altos destacan la necesidad de enfoques más avanzados. Los próximos pasos deben centrarse en modelos de series temporales y la inclusión de variables meteorológicas para mejorar la precisión.
 
-**Nota sobre la Imagen**: La imagen referenciada (`Alaska.png`) parece nombrada incorrectamente, ya que el análisis corresponde a Adrian, Michigan. Se recomienda renombrarla a `pm25_adrian_2024.png` para mayor claridad.
 
 **Contribuciones**: ¡Abre un issue o PR en el repositorio para sugerencias!  
-**Contacto**: [Tu correo o enlace a GitHub]  
+**Contacto**: sendy.rodriguez@upch.pe  
 **Fecha**: 22 de septiembre de 2025
-
-<div align="center">
-  <p><em>Desarrollado con 💻 para análisis ambiental.</em></p>
-  <p>⭐ ¡Dale una estrella al repo si te es útil!</p>
-</div>
