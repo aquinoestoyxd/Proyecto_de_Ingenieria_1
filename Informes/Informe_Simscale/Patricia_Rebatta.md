@@ -1,0 +1,53 @@
+# 📌 Informe del Tutorial: Simulación Estructural en SimScale  
+
+## 🎯 Objetivo del Tutorial  
+El propósito es mostrar cómo realizar una **simulación estructural estática** de un ensamble básico utilizando **Onshape** (para el modelado CAD) y **SimScale** (para el análisis en la nube).  
+
+---
+
+## 🛠️ Pasos abordados en el proceso  
+
+### 🔹 1. Importación o creación del modelo CAD  
+- El modelo es diseñado previamente en **Onshape**.  
+- Posteriormente se **importa a SimScale**, asegurando que se conserve la geometría.  
+- Este paso conecta el diseño con la fase de análisis.  
+
+---
+
+### 🔹 2. Configuración del tipo de análisis  
+- En la interfaz de SimScale se selecciona **Análisis estructural estático**.  
+- Se definen parámetros iniciales como:
+  - Método de cálculo.  
+  - Tipo de mallado.  
+  - Solver a utilizar.  
+
+---
+
+### 🔹 3. Definición de materiales, condiciones de contorno y cargas  
+- **Materiales**: se asignan propiedades mecánicas como módulo de elasticidad y coeficiente de Poisson.  
+- **Condiciones de contorno**: restricciones de movimiento (apoyos, empotramientos).  
+- **Cargas**: aplicación de fuerzas, presiones o peso propio.  
+
+---
+
+### 🔹 4. Ejecución de la simulación  
+- Se corre el análisis directamente en la **nube**.  
+- Ventajas: no requiere equipos potentes, ya que los cálculos se procesan en los servidores de SimScale.  
+
+---
+
+### 🔹 5. Interpretación de resultados  
+- Se generan resultados visuales y cuantitativos, tales como:  
+  - **Deformaciones** → desplazamientos en el ensamble.  
+  - **Esfuerzos** → tensiones internas (ej. Von Mises).  
+- Estos se representan mediante escalas de colores que facilitan identificar zonas críticas.  
+
+---
+
+## ✅ Conclusión  
+El flujo de trabajo en **SimScale** permite realizar simulaciones estructurales de manera sencilla, accesible y sin necesidad de software instalado localmente.  
+La integración con **Onshape** facilita pasar del diseño CAD al análisis estructural en pocos pasos, siendo ideal para entornos educativos y de aprendizaje en línea.  
+
+<p align= "center">
+  <img src="https://github.com/aquinoestoyxd/Proyecto_de_Ingenieria_1/blob/main/Im%C3%A1genes/informe1.paty.png" alt="300px" width="600px"/>
+</p>
